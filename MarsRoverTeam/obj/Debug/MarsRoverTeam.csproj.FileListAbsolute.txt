@@ -1,0 +1,12 @@
+C:\Users\Eylem\Desktop\MarsRoverTeam\bin\Debug\MarsRoverTeam.exe.config
+C:\Users\Eylem\Desktop\MarsRoverTeam\bin\Debug\MarsRoverTeam.exe
+C:\Users\Eylem\Desktop\MarsRoverTeam\bin\Debug\MarsRoverTeam.pdb
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.csprojAssemblyReference.cache
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.Form1.resources
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.Properties.Resources.resources
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.csproj.GenerateResource.cache
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.csproj.CoreCompileInputs.cache
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.exe
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.pdb
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.Form2.resources
+C:\Users\Eylem\Desktop\MarsRoverTeam\obj\Debug\MarsRoverTeam.Form3.resources
